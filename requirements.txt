@@ -1,0 +1,6 @@
+streamlit
+pytube
+youtube-transcript-api
+openai
+python-dotenv
+pandas
